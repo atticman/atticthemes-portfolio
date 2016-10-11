@@ -1,0 +1,20 @@
+<strong>Version 1.0.4</strong>
+<ul>
+	<li>Small bug fixes.</li>
+</ul>
+
+<strong>Version 1.0.3</strong>
+<ul>
+	<li>Added new setting to allow automatic addition of posted projects into the selected portfolio.</li>
+</ul>
+
+<strong>Version 1.0.2</strong>
+<ul>
+	<li>Added more filters to give better control to themes.</li>
+	<li>Bug fixes</li>
+</ul>
+
+<strong>Version 1.0.0</strong>
+<ul>
+	<li>Release version</li>
+</ul>
